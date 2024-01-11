@@ -1,0 +1,272 @@
+{
+    "recommendations": [
+        "xdebug.php-pack",
+        "zobo.php-intellisense",
+        "files.associations":{ "*.module": "php" }
+                "xdebug.php-pack",
+                "zobo.php-intellisense",
+                {
+                    "name": "php.suggest.basic",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.wordpress",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.laravel",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.symfony",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.codeigniter",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.drupal",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.magento",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.cakephp",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.yii",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.fuelphp",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.zend",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.lumen",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.silex",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.symfony-bundle",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.twig",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.monolog",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpunit",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpspec",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpmd",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpcs",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.psalm",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.vimeo/psalm",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.friendsofphp/php-cs-fixer",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.sebastian/phpcpd",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpactor",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpinsights",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.php-cs-fixer-plugin",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.php-parallel-lint",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpcbf",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.dealerdirect/phpcodesniffer-composer-installer",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.squizlabs/php_codesniffer",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.humbug/php-scoper",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.php-cs-fixer",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpunit-extension-installer",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-for-phpstorm",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-installer",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-symfony",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-webmozart-assert",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit-extension",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-doctrine",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-prophecy",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit-assertions",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-parser",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-reflection",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-parser-reflection",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-token-stream",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-webmozart-assert-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-symfony-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-doctrine-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-prophecy-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit-assertions-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-parser-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-reflection-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-parser-reflection-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-php-token-stream-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phar-dev",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit-config-generator",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit-config-printer",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit-runner",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-phpunit-wrapper",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-psalm-plugin",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-symfony-extension",
+                    "version": "1.0.0"
+                },
+                {
+                    "name": "php.suggest.phpstan-symfony-routing",
+                }
+        ]
+}
